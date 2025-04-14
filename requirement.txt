@@ -1,0 +1,7 @@
+streamlit
+fer
+transformers
+librosa
+pydub
+matplotlib
+moviepy
